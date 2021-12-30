@@ -2,7 +2,7 @@ const { path } = require("@vuepress/utils");
 
 module.exports = {
   lang: "ru-RU",
-  title: "Foundry VTT на русском",
+  title: "База знаний Foundry VTT",
   description: "База знаний Foundry VTT на русском языке",
 
   themeConfig: {
