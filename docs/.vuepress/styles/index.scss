@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+
+:root {
+  --font-family: "Inter", sans-serif;
+  --font-family-cond: "Oswald", sans-serif;
+
+  // brand colors
+  --c-brand: #ff6400;
+  --c-brand-light: #ff6400;
+}
+
+body p {
+  font-size: 17px;
+}
+
+.custom-container p {
+  font-size: 16px;
+}
+
+.navbar .logo {
+  height: 40px;
+  width: 40px;
+  max-width: 40px;
+}
+
+.home .hero .description {
+  font-size: 1.2rem;
+}
+
+.home .hero h1,
+.site-name {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+//.theme-container.homepage {}
+h3 {
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+table,
+h1,
+h2,
+h3,
+h4,
+.navbar {
+  font-family: var(--font-family-cond);
+}
+
+.sidebar-links,
+.nav-link {
+  font-family: var(--font-family-cond);
+}
+
+table {
+  font-size: 0.8rem;
+}
+
+em strong {
+  font-variant: small-caps;
+  font-style: normal;
+  font-weight: 700;
+  font-family: var(--font-family-cond);
+}
+
+summary {
+  font-family: var(--font-family-cond);
+  font-weight: 700;
+}
