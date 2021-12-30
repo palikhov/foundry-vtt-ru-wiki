@@ -15,6 +15,8 @@ module.exports = {
     notFound: ["Страница не найдена"],
     backToHome: "Перейти на главную страницу",
     editLinkText: "Редактировать эту страницу",
+    lastUpdatedText: "Обновлено",
+    contributorsText: "Авторы",
     tip: "ПРИМЕЧАНИЕ",
     warning: "ВНИМАНИЕ",
     danger: "ВАЖНО",
