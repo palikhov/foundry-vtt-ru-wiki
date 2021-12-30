@@ -1,6 +1,6 @@
 # База знаний Foundry VTT на русском языке
 
-[Сайт базы данных](https://foundry.ruleplaying.com/)
+[Сайт базы знаний Foundry VTT](https://foundry-ru.netlify.app/)
 
 ## Установка
 

@@ -58,15 +58,13 @@ module.exports = {
         children: [
           "/advanced/application-configuration.md",
           "/advanced/port-forwarding.md",
+          "/advanced/aws-s3.md",
         ],
       },
       {
         text: "Модули и системы",
         link: "/modules/",
-        children: [
-          "/modules/install.md",
-          "/modules/ru-ru.md"
-        ],
+        children: ["/modules/install.md", "/modules/ru-ru.md"],
       },
     ],
   },
